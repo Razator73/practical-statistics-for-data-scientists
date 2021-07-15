@@ -1,0 +1,26 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+jupyter = "*"
+pandas = "*"
+matplotlib = "*"
+scipy = "*"
+statsmodels = "*"
+wquantiles = "*"
+seaborn = "*"
+scikit-learn = "*"
+pygam = "*"
+dmba = "*"
+pydotplus = "*"
+imbalanced-learn = "*"
+prince = "*"
+graphviz = "*"
+xgboost = "*"
+
+[requires]
+python_version = "3.9"
